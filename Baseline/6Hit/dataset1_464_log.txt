@@ -1,0 +1,64 @@
+--- Initialised 5228197 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 345.8471727371216
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 581968
+581968
+46403
+46403
+[+]Scanning 46403 addresses...
+[+]Over! Scanning duration:13.115149974822998 s
+[+]1090 active addresses detected!
+[*]consume 46403 hit 1090 in 0:06:40 hit rate = 0.02348986056935974
+
+-------main_loop time: 54.14142894744873
+--- Initialised 5228197 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 395.49574160575867
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 581968
+581968
+464003
+464003
+[+]Scanning 464003 addresses...
+[+]Over! Scanning duration:56.614253997802734 s
+[+]11032 active addresses detected!
+[*]consume 464003 hit 11032 in 0:08:44 hit rate = 0.023775708346713276
+
+-------main_loop time: 117.73377728462219
+--- Initialised 5228197 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 388.363481760025
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 581968
+581968
+2320005
+2320005
+[+]Scanning 2320005 addresses...
+[+]Over! Scanning duration:254.58374571800232 s
+[+]191480 active addresses detected!
+[*]consume 2320005 hit 191480 in 0:13:17 hit rate = 0.08253430488296361
+
+-------main_loop time: 399.24133467674255
+--- Initialised 5228197 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 330.1149308681488
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 581968
+581968
+4640004
+4640004
+[+]Scanning 4640004 addresses...
+[+]Over! Scanning duration:499.75630402565 s
+[+]1559007 active addresses detected!
+[*]consume 4640004 hit 1559007 in 0:18:48 hit rate = 0.33599259828224287
+
+-------main_loop time: 793.3683280944824

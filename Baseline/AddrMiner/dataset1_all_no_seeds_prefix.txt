@@ -1,0 +1,100 @@
+0,2001:4:112::/48,112,DNS-OARC
+1,2001:218:2000:1::/64,141167,AgotoZ HK Limited
+2,2001:250:62::/48,24348,CERNET2 IX at Tsinghua University
+3,2001:250:206::/48,24351,CERNET2 IX at Beijing University of Aeronautics and Astronautics
+4,2001:250:209::/48,24348,CERNET2 IX at Tsinghua University
+5,2001:250:20b::/48,24350,CERNET2 IX at Beijing University of Posts and Telecommunications
+6,2001:250:20c::/48,24349,CERNET2 IX at Peking University
+7,2001:250:20f::/48,24351,CERNET2 IX at Beijing University of Aeronautics and Astronautics
+8,2001:250:210::/48,24349,CERNET2 IX at Peking University
+9,2001:250:214::/48,24351,CERNET2 IX at Beijing University of Aeronautics and Astronautics
+10,2001:250:218::/48,24349,CERNET2 IX at Peking University
+11,2001:250:219::/48,24348,CERNET2 IX at Tsinghua University
+12,2001:250:21a::/48,24348,CERNET2 IX at Tsinghua University
+13,2001:250:21b::/48,24348,CERNET2 IX at Tsinghua University
+14,2001:250:21d::/48,24348,CERNET2 IX at Tsinghua University
+15,2001:250:223::/48,24349,CERNET2 IX at Peking University
+16,2001:250:225::/48,24348,CERNET2 IX at Tsinghua University
+17,2001:250:22f::/48,24348,CERNET2 IX at Tsinghua University
+18,2001:250:233::/48,24348,CERNET2 IX at Tsinghua University
+19,2001:250:235::/48,24350,CERNET2 IX at Beijing University of Posts and Telecommunications
+20,2001:250:23b::/48,24348,CERNET2 IX at Tsinghua University
+21,2001:250:23f::/48,24357,CERNET2 IX at South China University of Technology
+22,2001:250:241::/48,24348,CERNET2 IX at Tsinghua University
+23,2001:250:243::/48,24349,CERNET2 IX at Peking University
+24,2001:250:400::/48,55826,Tianjin University IPv6 Campus Network
+25,2001:250:405::/48,24352,CERNET2 IX at Tianjin University
+26,2001:250:407::/48,24352,CERNET2 IX at Tianjin University
+27,2001:250:408::/48,24352,CERNET2 IX at Tianjin University
+28,2001:250:40d::/48,24352,CERNET2 IX at Tianjin University
+29,2001:250:801::/48,24348,CERNET2 IX at Tsinghua University
+30,2001:250:80b::/48,24348,CERNET2 IX at Tsinghua University
+31,2001:250:810::/48,138182,China Education and Research Network (CERNET)
+32,2001:250:81a::/48,138182,China Education and Research Network (CERNET)
+33,2001:250:81d::/48,138182,China Education and Research Network (CERNET)
+34,2001:250:820::/48,138182,China Education and Research Network (CERNET)
+35,2001:250:824::/48,138182,China Education and Research Network (CERNET)
+36,2001:250:828::/48,138182,China Education and Research Network (CERNET)
+37,2001:250:829::/48,138182,China Education and Research Network (CERNET)
+38,2001:250:82a::/48,138182,China Education and Research Network (CERNET)
+39,2001:250:82e::/48,138182,China Education and Research Network (CERNET)
+40,2001:250:832::/48,138182,China Education and Research Network (CERNET)
+41,2001:250:833::/48,138182,China Education and Research Network (CERNET)
+42,2001:250:838::/48,138182,China Education and Research Network (CERNET)
+43,2001:250:839::/48,138182,China Education and Research Network (CERNET)
+44,2001:250:83a::/48,24348,CERNET2 IX at Tsinghua University
+45,2001:250:83c::/48,24348,CERNET2 IX at Tsinghua University
+46,2001:250:83f::/48,138182,China Education and Research Network (CERNET)
+47,2001:250:845::/48,138182,China Education and Research Network (CERNET)
+48,2001:250:846::/48,138182,China Education and Research Network (CERNET)
+49,2001:250:849::/48,24348,CERNET2 IX at Tsinghua University
+50,2001:250:84a::/48,138182,China Education and Research Network (CERNET)
+51,2001:250:84b::/48,24348,CERNET2 IX at Tsinghua University
+52,2001:250:84c::/48,138182,China Education and Research Network (CERNET)
+53,2001:250:84d::/48,24348,CERNET2 IX at Tsinghua University
+54,2001:250:84e::/48,24348,CERNET2 IX at Tsinghua University
+55,2001:250:84f::/48,138182,China Education and Research Network (CERNET)
+56,2001:250:850::/48,138182,China Education and Research Network (CERNET)
+57,2001:250:852::/48,138182,China Education and Research Network (CERNET)
+58,2001:250:854::/48,24348,CERNET2 IX at Tsinghua University
+59,2001:250:855::/48,138182,China Education and Research Network (CERNET)
+60,2001:250:856::/48,138182,China Education and Research Network (CERNET)
+61,2001:250:857::/48,138182,China Education and Research Network (CERNET)
+62,2001:250:859::/48,138182,China Education and Research Network (CERNET)
+63,2001:250:85b::/48,24348,CERNET2 IX at Tsinghua University
+64,2001:250:85c::/48,138182,China Education and Research Network (CERNET)
+65,2001:250:85d::/48,138182,China Education and Research Network (CERNET)
+66,2001:250:85f::/48,138182,China Education and Research Network (CERNET)
+67,2001:250:860::/48,138182,China Education and Research Network (CERNET)
+68,2001:250:862::/48,138182,China Education and Research Network (CERNET)
+69,2001:250:863::/48,138182,China Education and Research Network (CERNET)
+70,2001:250:864::/48,24348,CERNET2 IX at Tsinghua University
+71,2001:250:865::/48,138182,China Education and Research Network (CERNET)
+72,2001:250:866::/48,138182,China Education and Research Network (CERNET)
+73,2001:250:867::/48,24348,CERNET2 IX at Tsinghua University
+74,2001:250:868::/48,138182,China Education and Research Network (CERNET)
+75,2001:250:869::/48,138182,China Education and Research Network (CERNET)
+76,2001:250:86a::/48,138182,China Education and Research Network (CERNET)
+77,2001:250:86c::/48,138182,China Education and Research Network (CERNET)
+78,2001:250:86d::/48,138182,China Education and Research Network (CERNET)
+79,2001:250:86e::/48,138182,China Education and Research Network (CERNET)
+80,2001:250:86f::/48,138182,China Education and Research Network (CERNET)
+81,2001:250:870::/48,138182,China Education and Research Network (CERNET)
+82,2001:250:871::/48,138182,China Education and Research Network (CERNET)
+83,2001:250:872::/48,138182,China Education and Research Network (CERNET)
+84,2001:250:873::/48,138182,China Education and Research Network (CERNET)
+85,2001:250:874::/48,138182,China Education and Research Network (CERNET)
+86,2001:250:875::/48,138182,China Education and Research Network (CERNET)
+87,2001:250:876::/48,138182,China Education and Research Network (CERNET)
+88,2001:250:877::/48,138182,China Education and Research Network (CERNET)
+89,2001:250:878::/48,138182,China Education and Research Network (CERNET)
+90,2001:250:879::/48,138182,China Education and Research Network (CERNET)
+91,2001:250:87a::/48,138182,China Education and Research Network (CERNET)
+92,2001:250:87b::/48,138182,China Education and Research Network (CERNET)
+93,2001:250:c00::/48,138374,China Education and Research Network (CERNET)
+94,2001:250:c02::/48,138374,China Education and Research Network (CERNET)
+95,2001:250:c04::/48,138374,China Education and Research Network (CERNET)
+96,2001:250:c05::/48,138374,China Education and Research Network (CERNET)
+97,2001:250:c06::/48,138374,China Education and Research Network (CERNET)
+98,2001:250:c07::/48,138374,China Education and Research Network (CERNET)
+99,2001:250:c09::/48,138374,China Education and Research Network (CERNET)

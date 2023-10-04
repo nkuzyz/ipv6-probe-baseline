@@ -1,0 +1,464 @@
+0,2001:1291::/32,16735,2154,ALGAR TELECOM S/A
+1,2001:1438::/32,8881,4583,1&1 Versatel Deutschland GmbH
+2,2001:1458::/32,513,15177,CERN - European Organization for Nuclear Research
+3,2001:1470::/32,2107,3294,ARNES
+4,2001:1498::/32,12956,1413,TELEFONICA GLOBAL SOLUTIONS SL
+5,2001:14b8::/29,16086,1077,DNA Oyj
+6,2001:14f4::/32,12355,2857,HeLi NET Telekommunikation GmbH & Co.
+7,2001:1600::/32,29222,7890,Infomaniak Network SA
+8,2001:1620::/32,13030,1160,Init7 (Switzerland) Ltd.
+9,2001:1890::/29,7018,1658,"AT&T Services, Inc."
+10,2001:1900::/32,3356,24803,"Level 3 Parent, LLC"
+11,2001:1998::/32,7843,1337,Charter Communications Inc
+12,2001:19f0::/38,20473,3232,"The Constant Company, LLC"
+13,2001:19f0:5000::/38,20473,1000,"The Constant Company, LLC"
+14,2001:19f0:5c00::/38,20473,1046,"The Constant Company, LLC"
+15,2001:19f0:6000::/38,20473,1023,"The Constant Company, LLC"
+16,2001:19f0:7000::/38,20473,1126,"The Constant Company, LLC"
+17,2001:1af8::/32,60781,3379,LeaseWeb Netherlands B.V.
+18,2001:1bb0::/32,8342,1720,JSC RTComm.RU
+19,2001:1c00::/24,33915,4132,Vodafone Libertel B.V.
+20,2001:2000:3000::/40,1299,7954,Telia Company AB
+21,2001:200::/32,2500,1140,WIDE Project
+22,2001:2030::/28,1299,3115,Telia Company AB
+23,2001:218::/32,2914,2172,"NTT America, Inc."
+24,2001:240::/32,2497,8450,Internet Initiative Japan Inc.
+25,2001:260::/32,2518,3507,BIGLOBE Inc.
+26,2001:268::/32,2516,6659,KDDI CORPORATION
+27,2001:288::/32,1659,4973,"Education Bureau, Kaohsiung City Government, Taiwan"
+28,2001:2e8::/32,10013,5647,"FreeBit Co.,Ltd."
+29,2001:2f8::/32,2907,6297,National Institute of Informatics
+30,2001:380::/32,4713,7402,NTT Communications Corporation
+31,2001:388::/32,7575,1093,Australian Academic and Research Network
+32,2001:3b8::/32,2527,3590,Sony Network Communications Inc.
+33,2001:400::/32,293,1370,ESnet
+34,2001:4178::/29,15456,1029,InterNetX GmbH
+35,2001:418::/32,2914,3146,"NTT America, Inc."
+36,2001:41a8::/32,6762,3338,TELECOM ITALIA SPARKLE S.p.A.
+37,2001:41c9::/32,35425,1074,IOMART HOSTING LIMITED
+38,2001:41d0::/32,16276,79715,OVH SAS
+39,2001:428::/32,209,1427,"CenturyLink Communications, LLC"
+40,2001:438::/32,6461,4956,Zayo Bandwidth
+41,2001:4450::/32,9299,1160,Philippine Long Distance Telephone Co.
+42,2001:4600::/24,2119,1630,Telenor Norge AS
+43,2001:470::/32,6939,36469,Hurricane Electric LLC
+44,2001:4800::/32,33070,1174,Rackspace Hosting
+45,2001:4860::/32,15169,11494,Google LLC
+46,2001:48f8::/32,11232,1329,Midcontinent Communications
+47,2001:4958::/32,577,1435,Bell Canada
+48,2001:4998:124::/48,26101,5090,Oath Holdings Inc.
+49,2001:4998:24::/48,36647,5797,Oath Holdings Inc.
+50,2001:4998:44::/48,36646,16392,Oath Holdings Inc.
+51,2001:4998:44::/46,36646,1769,Oath Holdings Inc.
+52,2001:4998:58::/48,26101,14104,Oath Holdings Inc.
+53,2001:4998:58::/46,26101,2817,Oath Holdings Inc.
+54,2001:4998:c::/48,36647,23102,Oath Holdings Inc.
+55,2001:4998:f000::/36,10310,1331,Oath Holdings Inc.
+56,2001:4b78::/32,12637,1178,SEEWEB s.r.l.
+57,2001:4b98::/32,29169,1377,GANDI SAS
+58,2001:4ba0::/32,24961,4349,myLoc managed IT AG
+59,2001:4c80::/32,2857,1304,Johannes Gutenberg-Universitaet Mainz
+60,2001:4ca0::/32,12816,3227,Leibniz-Rechenzentrum
+61,2001:4dd0::/32,8422,7940,NetCologne Gesellschaft fur Telekommunikation mbH
+62,2001:5000::/21,1273,1963,Vodafone Group PLC
+63,2001:4e8::/32,6327,1152,Shaw Communications Inc.
+64,2001:550::/32,174,19977,Cogent Communications
+65,2001:558::/29,7922,105395,"Comcast Cable Communications, LLC"
+66,2001:578::/30,22773,1006,Cox Communications Inc.
+67,2001:5a0::/32,6453,2348,TATA COMMUNICATIONS (AMERICA) INC
+68,2001:608::/32,5539,2102,SpaceNet AG
+69,2001:610::/29,1103,2177,SURF B.V.
+70,2001:620::/32,559,2958,SWITCH
+71,2001:628::/29,1853,1116,ACONET
+72,2001:630::/32,786,4458,Jisc Services Limited
+73,2001:638::/32,680,8944,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+74,2001:648::/29,5408,5431,National Infrastructures for Research and Technology S.A.
+75,2001:660::/32,2200,4627,Renater
+76,2001:668::/32,3257,6809,GTT Communications Inc.
+77,2001:67c:25dc::/48,3236,1544,SERVER.UA LLC
+78,2001:688::/32,5511,1485,Orange S.A.
+79,2001:690::/32,1930,1225,"Fundacao para a Ciencia e a Tecnologia, I.P."
+80,2001:6b0::/32,1653,4141,Vetenskapsradet / SUNET
+81,2001:700::/32,224,5647,SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR
+82,2001:708::/32,1741,1487,CSC - Tieteen tietotekniikan keskus Oy
+83,2001:718::/32,2852,3441,CESNET z.s.p.o.
+84,2001:720::/32,766,1248,Entidad Publica Empresarial Red.es
+85,2001:728::/32,2914,2055,"NTT America, Inc."
+86,2001:730::/29,6830,1449,Liberty Global B.V.
+87,2001:738::/32,1955,1908,KIFU (Governmental Info Tech Development Agency)
+88,2001:770::/32,1213,1505,HEAnet
+89,2001:780::/32,12337,1423,noris network AG
+90,2001:7b8::/29,12859,1668,BIT BV
+91,2001:7c0::/32,553,3932,Universitaet Stuttgart
+92,2001:7c0::/29,553,2361,Universitaet Stuttgart
+93,2001:7d0::/32,3249,3327,Telia Eesti AS
+94,2001:7e8::/32,6661,1331,POST Luxembourg
+95,2001:8000::/20,1221,10589,Telstra Corporation Limited
+96,2001:850::/29,8447,1739,A1 Telekom Austria AG
+97,2001:870::/29,8447,1201,A1 Telekom Austria AG
+98,2001:8b0::/32,20712,1771,Andrews & Arnold Ltd
+99,2001:8c0::/29,2116,1924,GLOBALCONNECT AS
+100,2001:8d8::/32,8560,15463,IONOS SE
+101,2001:920::/32,8220,3568,COLT Technology Services Group Limited
+102,2001:978::/32,174,7438,Cogent Communications
+103,2001:9a8::/32,15703,1402,True B.V.
+104,2001:9b0::/32,8473,1448,Bahnhof AB
+105,2001:9b0::/29,8473,1283,Bahnhof AB
+106,2001:a60::/29,8767,4131,M-net Telekommunikations GmbH
+107,2001:ac8::/32,9009,1067,M247 Europe SRL
+108,2001:af0::/32,13036,1063,T-Mobile Czech Republic a.s.
+109,2001:b00::/29,12874,1367,Fastweb SpA
+110,2001:ba8::/32,8943,1090,Jump Networks Ltd
+111,2001:bc8::/32,12876,17549,ONLINE S.A.S.
+112,2001:bc8:1800::/38,12876,4186,ONLINE S.A.S.
+113,2001:ce8::/32,17511,1240,OPTAGE Inc.
+114,2001:df0:27b::/48,58487,2875,Rumahweb
+115,2001:df1:7800::/48,58487,3931,Rumahweb
+116,2001:df6:2200::/48,135908,3847,ECONET VIETNAM CORPORATION
+117,2001:e40::/30,9370,9391,SAKURA Internet Inc.
+118,2001:e68::/32,4788,1013,"Tmnet, Telekom Malaysia Bhd."
+119,2001:ee0:48c0::/42,45899,1939,Vietnam Posts and Telecommunications (VNPT)
+120,2001:f40::/32,9930,7544,TT DOTCOM SDN BHD
+121,2001:f60::/28,2519,1163,ARTERIA Networks Corporation
+122,2001:fb0::/32,7470,1266,TRUE INTERNET CORPORATION CO. LTD.
+123,2001:fb1:fe0::/48,17552,5450,TRUE INTERNET CORPORATION CO. LTD.
+124,2001:fe0::/32,4775,1076,"Globe Telecom (GMCR,INC)"
+125,2003::/19,3320,135691,Deutsche Telekom AG
+126,2400:1a00:b050::/48,17501,2129,WorldLink Communications
+127,2400:2000::/20,17676,18017,Softbank BB Corp.
+128,2400:3200::/33,37963,1678,"Alibaba (US) Technology Co., Ltd."
+129,2400:6180::/48,14061,29610,"DigitalOcean, LLC"
+130,2400:6180:100::/40,14061,11936,"DigitalOcean, LLC"
+131,2400:7800::/32,4713,1339,NTT Communications Corporation
+132,2400:8500:1000::/36,7506,5573,"GMO Internet,Inc"
+133,2400:8800::/35,3491,1208,"PCCW Global, Inc."
+134,2400:8901::/32,63949,16461,"Akamai Technologies, Inc."
+135,2400:8902::/32,63949,17565,"Akamai Technologies, Inc."
+136,2400:8904::/32,63949,4206,"Akamai Technologies, Inc."
+137,2400:8907::/32,63949,5096,"Akamai Technologies, Inc."
+138,2401:2500::/32,7684,12997,SAKURA Internet Inc.
+139,2401:ce80::/32,14340,17247,"Salesforce.com, Inc."
+140,2402:800:6300::/40,7552,1097,Viettel Group
+141,2403::/32,4755,1882,Tata Communications Limited
+142,2403:300::/32,714,1008,Apple Inc.
+143,2403:3a00::/32,9371,10492,SAKURA Internet Inc.
+144,2403:5800::/27,4764,1528,Wideband Networks Pty Ltd
+145,2403:e800::/32,4637,1003,Telstra International Limited
+146,2404:6800:4002::/48,15169,1007,Google LLC
+147,2404:a800::/32,9498,1891,Bharti Airtel Limited
+148,2404:a800:6::/48,9498,1469,Bharti Airtel Limited
+149,2405:200:1000::/36,55836,3911,Reliance Jio Infocomm Limited
+150,2405:200:300::/40,55836,1222,Reliance Jio Infocomm Limited
+151,2405:200:800::/37,55836,1272,Reliance Jio Infocomm Limited
+152,2406:2000:e4::/48,56173,4872,Yahoo-Inc
+153,2406:2000:ec::/46,24506,2309,"YAHOO! TAIWAN HOLDINGS LIMITED, TAIWAN BRANCH"
+154,2406:2000:fc::/46,10229,2533,Yahoo-Inc
+155,2406:3003:1000::/48,55430,1409,Starhub Internet Pte Ltd
+156,2406:3003:1064::/48,55430,1042,Starhub Internet Pte Ltd
+157,2406:3003:106f::/48,55430,1765,Starhub Internet Pte Ltd
+158,2406:3003:1073::/48,55430,1414,Starhub Internet Pte Ltd
+159,2406:3003:1077::/48,55430,1362,Starhub Internet Pte Ltd
+160,2406:7400:72::/48,24309,2989,"Atria Convergence Technologies Pvt. Ltd.,"
+161,2406:8c00::/32,24282,3353,KAGOYA JAPAN Inc.
+162,2406:b400:a8::/48,55577,1067,Beam Telecom Pvt Ltd
+163,2406:b400:d0::/48,55577,2142,Beam Telecom Pvt Ltd
+164,2406:da00:ff00::/48,14618,10146,"Amazon.com, Inc."
+165,2407:c080:1000::/37,55990,6366,Huawei Cloud Service data center
+166,2407:8800::/32,7545,1781,TPG Internet Pty Ltd
+167,2407:c080::/37,55990,1196,Huawei Cloud Service data center
+168,2407:c080:800::/37,55990,2083,Huawei Cloud Service data center
+169,2408:8000:1000::/36,4808,2263,China Unicom
+170,2408:8000:2000::/36,4837,2158,CHINA UNICOM Industrial Internet Backbone
+171,2408:8000:2::/48,4837,3357,CHINA UNICOM Industrial Internet Backbone
+172,2408:8000:3000::/36,4837,1014,CHINA UNICOM Industrial Internet Backbone
+173,2408:8000:4000::/36,4837,1679,CHINA UNICOM Industrial Internet Backbone
+174,2408:8000:6000::/36,4837,3708,CHINA UNICOM Industrial Internet Backbone
+175,2408:8000:8000::/36,4837,1845,CHINA UNICOM Industrial Internet Backbone
+176,2408:8000:9000::/36,17621,2062,China Unicom
+177,2408:8000:a000::/36,4837,1980,CHINA UNICOM Industrial Internet Backbone
+178,2408:8000:b000::/36,4837,1122,CHINA UNICOM Industrial Internet Backbone
+179,2408:8000:f000::/36,4837,6357,CHINA UNICOM Industrial Internet Backbone
+180,2408:8001::/36,4837,6749,CHINA UNICOM Industrial Internet Backbone
+181,2408:8001:1000::/36,4837,1722,CHINA UNICOM Industrial Internet Backbone
+182,2408:8001:2000::/36,4837,2043,CHINA UNICOM Industrial Internet Backbone
+183,2408:8001:3000::/36,17816,1693,China Unicom
+184,2408:8001:7000::/36,4837,1160,CHINA UNICOM Industrial Internet Backbone
+185,2408:8026::/32,17621,1006,China Unicom
+186,2408:8719::/32,4837,2310,CHINA UNICOM Industrial Internet Backbone
+187,2408:871a::/32,4837,1934,CHINA UNICOM Industrial Internet Backbone
+188,2409:8020::/32,56046,1457,China Mobile Communications Corporation
+189,2409:8020:20::/48,56046,1119,China Mobile Communications Corporation
+190,2409:8028::/40,56041,1873,China Mobile Communications Corporation
+191,2409:8000::/20,56048,2070,China Mobile Communications Corporation
+192,2409:8028:70::/44,56041,1101,China Mobile Communications Corporation
+193,2409:8030::/40,9808,4833,China Mobile
+194,2409:803c::/40,24444,2347,China Mobile
+195,2409:8055::/32,56040,1149,China Mobile Communications Corporation
+196,2409:8088::/32,24445,2636,China Mobile
+197,240d::/27,2527,25440,Sony Network Communications Inc.
+198,240e::/24,4134,32180,"No.31,Jin-rong Street"
+199,240e:12::/32,4134,1230,"No.31,Jin-rong Street"
+200,240e:14::/31,140329,1245,China Telecom
+201,240e:18::/33,4812,2555,China Telecom (Group)
+202,240e:1:8000::/33,4134,1177,"No.31,Jin-rong Street"
+203,240e:38f::/32,4812,11836,China Telecom (Group)
+204,240e:7::/32,4134,3195,"No.31,Jin-rong Street"
+205,240e:934::/30,4134,1027,"No.31,Jin-rong Street"
+206,240e:9::/32,4134,1243,"No.31,Jin-rong Street"
+207,2600:1400::/24,20940,1750,Akamai International B.V.
+208,2600:1400:d::/48,20940,1027,Akamai International B.V.
+209,2600:1404:6400::/48,20940,1385,Akamai International B.V.
+210,2600:1406:bc00::/48,20940,1054,Akamai International B.V.
+211,2600:1408:b400::/48,20940,1385,Akamai International B.V.
+212,2600:1413:1::/48,20940,1293,Akamai International B.V.
+213,2600:1413:a000::/48,20940,1222,Akamai International B.V.
+214,2600:1417:3f::/48,20940,2116,Akamai International B.V.
+215,2600:1417:75::/48,20940,1168,Akamai International B.V.
+216,2600:141b:5000::/48,20940,1049,Akamai International B.V.
+217,2600:141b:7000::/48,20940,1173,Akamai International B.V.
+218,2600:1fa0:4040::/46,16509,1383,"Amazon.com, Inc."
+219,2600:1fa0:4080::/46,16509,1119,"Amazon.com, Inc."
+220,2600:1fa0:40c0::/46,16509,1443,"Amazon.com, Inc."
+221,2600:1fa0:8040::/46,16509,1485,"Amazon.com, Inc."
+222,2600:1fa0:8050::/46,16509,1232,"Amazon.com, Inc."
+223,2600:3000::/29,13649,1437,Flexential Colorado Corp.
+224,2600:3c00::/32,63949,37311,"Akamai Technologies, Inc."
+225,2600:3c01::/32,63949,27492,"Akamai Technologies, Inc."
+226,2600:3c02::/32,63949,16401,"Akamai Technologies, Inc."
+227,2600:3c03::/32,63949,30012,"Akamai Technologies, Inc."
+228,2600:3c04::/32,63949,5020,"Akamai Technologies, Inc."
+229,2600:4040:1000::/36,701,10484,Verizon Business
+230,2600:4c00:200::/39,63410,3724,PrivateSystems Networks
+231,2600:4c00:80::/41,63410,2751,PrivateSystems Networks
+232,2600:800::/27,701,2766,Verizon Business
+233,2603:1000::/25,8075,12650,Microsoft Corporation
+234,2603:8000::/28,20001,1055,Charter Communications Inc
+235,2604:2000::/32,12271,2346,Charter Communications Inc
+236,2604:2dc0::/32,16276,2356,OVH SAS
+237,2604:4f00::/36,47002,2707,Tiger Technologies LLC
+238,2604:6000::/32,11351,5951,Charter Communications Inc
+239,2604:a880::/48,14061,1269,"DigitalOcean, LLC"
+240,2604:a880:1::/48,14061,2435,"DigitalOcean, LLC"
+241,2604:a880:2::/48,14061,13801,"DigitalOcean, LLC"
+242,2604:a880:400::/48,14061,46439,"DigitalOcean, LLC"
+243,2604:a880:4::/48,14061,17900,"DigitalOcean, LLC"
+244,2604:a880:800::/48,14061,40375,"DigitalOcean, LLC"
+245,2604:a880:cad::/48,14061,11197,"DigitalOcean, LLC"
+246,2604:d600::/32,32098,1123,Transtelco Inc
+247,2605:6000::/32,11427,6951,Charter Communications Inc
+248,2605:6180::/32,14340,57622,"Salesforce.com, Inc."
+249,2605:6280::/32,32338,2363,Hostiserver Ltd
+250,2605:a000::/32,10796,8297,Charter Communications Inc
+251,2605:a600::/31,16591,3382,Google Fiber Inc.
+252,2605:e000::/32,20001,6680,Charter Communications Inc
+253,2606:a000::/32,11426,5563,Charter Communications Inc
+254,2606:cd80::/48,394727,4195,"Nodisto IT, LLC"
+255,2607:1b00:93b2::/48,54456,14182,"CloudAccess.net, LLC"
+256,2607:4d00::/35,33260,1312,"Miva Merchant, Inc."
+257,2607:5300::/32,16276,11321,OVH SAS
+258,2607:5500::/32,54290,2774,Hostwinds LLC.
+259,2607:5501::/32,54290,4297,Hostwinds LLC.
+260,2607:ea00::/32,57,1659,University of Minnesota
+261,2607:f018::/32,36375,1588,University of Michigan
+262,2607:f098::/32,33363,8696,"Charter Communications, Inc"
+263,2607:f140::/32,25,1196,University of California at Berkeley
+264,2607:f1c0::/32,8560,4219,IONOS SE
+265,2607:f298:5::/48,26347,9442,"New Dream Network, LLC"
+266,2607:f298:6::/48,26347,6611,"New Dream Network, LLC"
+267,2607:f380::/32,2152,2105,"California State University, Office of the Chancellor"
+268,2607:f4e8::/32,22822,1870,"Limelight Networks, Inc."
+269,2607:f798::/32,812,4608,Rogers Communications Canada Inc.
+270,2607:f8b0:4001::/48,15169,3716,Google LLC
+271,2607:f8b0:4002::/48,15169,1390,Google LLC
+272,2607:f8b0:4003::/48,15169,2493,Google LLC
+273,2607:f8b0:400c::/48,15169,1890,Google LLC
+274,2607:f8b0:400d::/48,15169,1016,Google LLC
+275,2607:f8b0::/32,15169,2360,Google LLC
+276,2607:fa78::/32,10430,1562,Washington State K-20 Telecommunications Network
+277,2610:130:100::/40,2698,1451,Iowa State University of Science and Technology
+278,2620:0:1c00::/40,32934,11961,"Facebook, Inc."
+279,2620:0:e00::/48,38,1261,University of Illinois
+280,2620:108:7000::/44,16509,4693,"Amazon.com, Inc."
+281,2620:135:6000::/40,22697,1811,Roblox
+282,2620:149::/36,714,6753,Apple Inc.
+283,2620:149:bb::/48,714,1093,Apple Inc.
+284,2620:6a::/48,3152,1286,Fermi National Accelerator Laboratory (Fermilab)
+285,2800:190::/32,19037,1285,AMX Argentina S.A.
+286,2800:6c0::/32,27823,3179,Dattatec.com
+287,2800:e0::/28,13489,1216,EPM Telecomunicaciones S.A. E.S.P.
+288,2803:9400::/33,27839,3320,Comteco Ltda
+289,2804:10:8000::/34,28299,4119,Cyberweb Networks Ltda
+290,2804:7f4::/33,18881,1585,TELEF√îNICA BRASIL S.A
+291,2804:a8::/32,4230,7815,CLARO S.A.
+292,2804:d40::/28,7738,14341,V tal
+293,2804:d50::/28,8167,4728,V tal
+294,2a00::/22,3209,4268,Vodafone GmbH
+295,2a00:1028::/32,5610,1737,"O2 Czech Republic, a.s."
+296,2a00:1098::/32,44684,1917,Mythic Beasts Ltd
+297,2a00:1128::/32,21069,1223,METANET AG
+298,2a00:1158::/32,34011,5029,Host Europe GmbH
+299,2a00:1288:110::/48,34010,3959,Yahoo! UK Services Limited
+300,2a00:1450:400c::/48,15169,1071,Google LLC
+301,2a00:1450:4010::/48,15169,1130,Google LLC
+302,2a00:1450:4011::/48,15169,1140,Google LLC
+303,2a00:14d8::/29,8542,3143,Eviny Digital AS
+304,2a00:1a28::/32,42708,1382,GleSYS AB
+305,2a00:1d70:8000::/33,39020,1483,Comvive Servidores S.L.
+306,2a00:1e48::/32,20485,1169,Joint Stock Company TransTeleCom
+307,2a00:1ed0::/32,43541,3258,VSHosting s.r.o.
+308,2a00:1ee0::/32,41357,2161,34SP.com Limited
+309,2a00:2380::/25,2856,51953,British Telecommunications PLC
+310,2a00:6020::/32,60294,118426,Deutsche Glasfaser Wholesale GmbH
+311,2a00:79c0::/32,41998,8935,NetCom BW GmbH
+312,2a00:800::/25,1257,1480,Tele2 Sverige AB
+313,2a00:86c0::/32,2906,1660,Netflix Streaming Services Inc.
+314,2a00:8a60::/29,47610,9085,RWTH Aachen University
+315,2a00:a960::/32,200161,1740,DATAPRO Limited Liability Company
+316,2a00:bba0::/32,207375,12008,Fiber Operator B.V.
+317,2a00:ca8::/32,30764,1900,PODA a.s.
+318,2a00:d680::/32,31708,1794,Coreix Ltd
+319,2a00:d70::/32,29097,1725,Hostpoint AG
+320,2a00:d880::/32,198203,1046,RouteLabel V.O.F.
+321,2a00:ece1::/48,5606,2977,GTS Telecom SRL
+322,2a00:f10::/29,48635,1058,CLDIN B.V.
+323,2a00:f48::/32,47447,2602,23M GmbH
+324,2a00:f940:1::/48,197695,1043,"Domain names registrar REG.RU, Ltd"
+325,2a00:f940:2::/48,197695,12608,"Domain names registrar REG.RU, Ltd"
+326,2a01:111:2000::/36,8075,4676,Microsoft Corporation
+327,2a01:1000::/21,5617,1231,Orange Polska Spolka Akcyjna
+328,2a01:111:f000::/36,8075,2867,Microsoft Corporation
+329,2a01:190::/32,1764,1253,Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH
+330,2a01:238::/29,6724,6513,Strato AG
+331,2a01:28::/32,39392,1168,SH.cz s.r.o.
+332,2a01:3e0::/32,6453,1231,TATA COMMUNICATIONS (AMERICA) INC
+333,2a01:430::/32,24971,2252,Master Internet s.r.o.
+334,2a01:488::/32,20773,220532,Host Europe GmbH
+335,2a01:490::/32,8251,1705,"FreeTel, s.r.o."
+336,2a01:4a0::/29,201011,1164,AS33891 Netzbetrieb GmbH
+337,2a01:5240::/30,58243,1440,TELE AG
+338,2a01:578::/32,16509,2965,"Amazon.com, Inc."
+339,2a01:5b40::/48,12996,7796,Domeneshop AS
+340,2a01:620::/32,12389,1454,PJSC Rostelecom
+341,2a01:71c1::/32,198066,2041,"Grupo Loading Systems, S.L."
+342,2a01:7c8::/32,20857,12632,Signet B.V.
+343,2a01:7c8:d000::/36,20857,2627,Signet B.V.
+344,2a01:7e00::/32,63949,23796,"Akamai Technologies, Inc."
+345,2a01:7e01::/32,63949,23528,"Akamai Technologies, Inc."
+346,2a01:7e0::/32,44066,1163,firstcolo GmbH
+347,2a01:a8::/32,39122,10736,Blacknight Internet Solutions Limited
+348,2a01:b740:a70::/44,714,3484,Apple Inc.
+349,2a01:c500::/31,12479,1921,Orange Espagne SA
+350,2a01:e00::/32,12322,3564,Free SAS
+351,2a01:e01::/32,12322,2711,Free SAS
+352,2a01:e02::/32,12322,5772,Free SAS
+353,2a01:e03::/32,12322,4707,Free SAS
+354,2a01:e00::/26,12322,461320,Free SAS
+355,2a01:e05::/32,12322,4846,Free SAS
+356,2a01:e06::/32,12322,1829,Free SAS
+357,2a01:e0a::/39,12322,427441,Free SAS
+358,2a01:e0a::/38,12322,497219,Free SAS
+359,2a01:e0a:400::/39,12322,352323,Free SAS
+360,2a01:e34::/32,12322,302189,Free SAS
+361,2a01:e30::/28,12322,7628,Free SAS
+362,2a02:1210::/29,3303,13728,Swisscom (Schweiz) AG
+363,2a02:1218::/29,3303,10073,Swisscom (Schweiz) AG
+364,2a02:168::/32,13030,1978,Init7 (Switzerland) Ltd.
+365,2a02:1800::/24,6848,10813,Telenet BVBA
+366,2a02:180::/32,35366,1895,ISPpro Internet KG
+367,2a02:2028::/32,15943,2138,wilhelm.tel GmbH
+368,2a02:2149:8000::/33,1241,2514,Forthnet
+369,2a02:2168::/32,42610,1759,PJSC Rostelecom
+370,2a02:2178::/29,29075,1459,IELO-LIAZO SERVICES SAS
+371,2a02:21b0::/32,57370,6560,Swisscom (Schweiz) AG
+372,2a02:238::/32,16097,1169,HL komm Telekommunikations GmbH
+373,2a02:2454:8000::/33,16202,1619,Tele Columbus AG
+374,2a02:2488::/32,29413,1590,KOMRO Gesellschaft fuer Telekommunikation mit beschraenkter Haftung
+375,2a02:248::/32,8648,1791,KAMP Netzwerkdienste GmbH
+376,2a02:25a8::/29,12824,19828,home.pl S.A.
+377,2a02:26f0::/32,20940,4369,Akamai International B.V.
+378,2a02:26f0:1700::/48,20940,1274,Akamai International B.V.
+379,2a02:26f0:2b00::/48,20940,1018,Akamai International B.V.
+380,2a02:26f0:3100::/48,20940,1366,Akamai International B.V.
+381,2a02:26f0:3400::/48,20940,1138,Akamai International B.V.
+382,2a02:26f0:3500::/48,20940,1108,Akamai International B.V.
+383,2a02:26f0:9400::/48,20940,1008,Akamai International B.V.
+384,2a02:2770::/32,196752,3777,Tilaa B.V.
+385,2a02:28:1::/48,8359,2033,MTS PJSC
+386,2a02:2b88::/32,197019,3069,"WEDOS Internet, a.s."
+387,2a02:2d8::/32,9002,1827,RETN Limited
+388,2a02:2e00:2000::/37,12479,1069,Orange Espagne SA
+389,2a02:2f00::/28,8708,7253,RCS & RDS SA
+390,2a02:3000::/23,6805,2521,Telefonica Germany GmbH & Co.OHG
+391,2a02:348::/32,35470,8517,Signet B.V.
+392,2a02:3d0::/32,22822,1461,"Limelight Networks, Inc."
+393,2a02:4780:1::/48,47583,4214,Hostinger International Limited
+394,2a02:4780:3::/48,47583,7817,Hostinger International Limited
+395,2a02:4a8::/32,25234,1164,"ACTIVE 24, s.r.o."
+396,2a02:560::/32,13045,1036,htp GmbH
+397,2a02:580::/29,6799,1336,Ote SA (Hellenic Telecommunications Organisation)
+398,2a02:6b8::/32,208722,56020,Global DC Oy
+399,2a02:6d40::/32,42652,7748,inexio Informationstechnologie und Telekommunikation Gmbh
+400,2a02:750::/29,42708,3245,GleSYS AB
+401,2a02:7b40::/32,62282,12092,UAB Rakrejus
+402,2a02:8010::/29,13037,1248,Zen Internet Ltd
+403,2a02:8070::/32,3209,7163,Vodafone GmbH
+404,2a02:8071::/32,3209,4696,Vodafone GmbH
+405,2a02:8100::/27,3209,54249,Vodafone GmbH
+406,2a02:8382::/32,8412,1103,T-Mobile Austria GmbH
+407,2a02:8400::/25,15557,17224,Societe Francaise Du Radiotelephone - SFR SA
+408,2a02:908::/33,3209,30564,Vodafone GmbH
+409,2a02:908:8000::/33,3209,2856,Vodafone GmbH
+410,2a02:a000::/26,5432,23746,Proximus NV
+411,2a02:a400::/25,1136,26322,KPN B.V.
+412,2a02:af8::/32,29550,1067,Simply Transit Ltd
+413,2a02:b000::/23,1267,1605,WIND TRE S.P.A.
+414,2a02:c0::/32,39029,1171,Redpill Linpro AS
+415,2a02:c7a::/32,5607,1593,Sky UK Limited
+416,2a02:c7e::/33,5607,11030,Sky UK Limited
+417,2a02:c7f::/33,5607,10218,Sky UK Limited
+418,2a02:c7f:8000::/33,5607,8366,Sky UK Limited
+419,2a02:ca00::/29,41307,1186,Telepark Passau GmbH
+420,2a02:ce0::/32,35819,2025,"Etihad Etisalat, a joint stock company"
+421,2a02:cec0::/30,25459,1178,Eurofiber Cloud Infra B.V.
+422,2a03:3c00:8000::/34,20847,5106,Previder B.V.
+423,2a03:4000::/32,197540,65833,netcup GmbH
+424,2a03:7840::/29,207790,8783,SWN Stadtwerke Neumuenster GmbH
+425,2a03:b0c0::/48,14061,1985,"DigitalOcean, LLC"
+426,2a03:b0c0:1::/48,14061,29013,"DigitalOcean, LLC"
+427,2a03:b0c0:2::/48,14061,32884,"DigitalOcean, LLC"
+428,2a03:b0c0:3::/48,14061,44918,"DigitalOcean, LLC"
+429,2a03:c980:5fb5::/48,210079,1014,EuroByte LLC
+430,2a03:f480:1::/48,198068,2350,P.A.G.M. OU
+431,2a04:4540::/29,15943,2310,wilhelm.tel GmbH
+432,2a04:6ec0::/32,197637,6866,ropa GmbH
+433,2a04:ac00:4::/48,201848,2004,Trader soft LLC
+434,2a04:ac01::/32,56534,6081,Comfortel Ltd.
+435,2a04:c43::/32,61098,1432,Akenes SA
+436,2a04:c44::/32,61098,1634,Akenes SA
+437,2a04:ee40::/29,15796,3557,Salt Mobile SA
+438,2a05:44c0::/32,32338,1160,Hostiserver Ltd
+439,2a05:f6c0::/29,203953,13722,Hiper A/S
+440,2a06:dd00::/29,56694,2768,LLC Smart Ape
+441,2a07:3503:1033::/48,208492,1119,S.J.M. Steffann
+442,2a07:5741::/32,44901,1540,Belcloud LTD
+443,2a09:80c0::/29,209335,1001,Technische Universitaet Muenchen
+444,2a0a:1580::/29,34993,1003,CYLLENE LILLE SASU
+445,2a0a:2b43::/32,35278,11018,SPRINTHOST.RU LLC
+446,2a0a:51c0::/32,48314,1264,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG
+447,2a0a:53c0::/48,42780,7262,"PE ""Avtosojuz"""
+448,2a0a:7d80:1::/48,6697,8016,Republican Unitary Telecommunication Enterprise Beltelecom
+449,2a0b:d40::/29,59437,1785,Northern Data AG
+450,2a0b:f300:404::/48,62240,2062,Clouvider Limited
+451,2a0b:f300:408::/48,62240,1955,Clouvider Limited
+452,2a0c:52c0::/29,203973,21743,EURO LIR LLC
+453,2a0c:5840::/32,197226,4774,SPRINT S.A.
+454,2a0c:5a80::/29,57269,1990,DIGI SPAIN TELECOM S.L.U.
+455,2a0c:d240::/29,43341,1074,MDlink online service center GmbH
+456,2a0d:1a40:7900::/48,207960,4313,AS207960 Cyfyngedig
+457,2a0d:7c40::/32,54290,1664,Hostwinds LLC.
+458,2a0d:c500::/29,204888,8095,EURO LIR LLC
+459,2a0e:d601:7220::/48,202436,3145,Ovcharov Oleksandr Mykhailovych
+460,2a0e:fdc0::/29,207375,1440,Fiber Operator B.V.
+461,2a10:3780::/29,206238,4188,Freedom Internet BV
+462,2a11:cc80::/29,59437,2095,Northern Data AG
+463,2c0f:feb0::/32,37100,2375,SEACOM Limited

@@ -1,0 +1,80 @@
+--- Initialised 4928111 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 322.5350706577301
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 554371
+554371
+5932161
+5932161
+[+]Scanning 5932161 addresses...
+[+]Over! Scanning duration:642.6386578083038 s
+[+]1748386 active addresses detected!
+[*]consume 5932161 hit 1748386 in 0:22:19 hit rate = 0.2947300317708842
+
+-------main_loop time: 1016.841649055481
+--- Initialised 4928111 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 330.9584844112396
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 554371
+554371
+44904
+44904
+[+]Scanning 44904 addresses...
+[+]Over! Scanning duration:13.120798349380493 s
+[+]1423 active addresses detected!
+[*]consume 44904 hit 1423 in 0:06:24 hit rate = 0.031689827186887586
+
+-------main_loop time: 53.41243052482605
+--- Initialised 4928111 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 377.10870695114136
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 554371
+554371
+449001
+449001
+[+]Scanning 449001 addresses...
+[+]Over! Scanning duration:55.041382789611816 s
+[+]11532 active addresses detected!
+[*]consume 449001 hit 11532 in 0:08:18 hit rate = 0.02568368444613709
+
+-------main_loop time: 113.51116061210632
+--- Initialised 4928111 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 384.988956451416
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 554371
+554371
+2245002
+2245002
+[+]Scanning 2245002 addresses...
+[+]Over! Scanning duration:246.687659740448 s
+[+]272336 active addresses detected!
+[*]consume 2245002 hit 272336 in 0:13:38 hit rate = 0.12130768703101379
+
+-------main_loop time: 426.37403202056885
+--- Initialised 4928111 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 362.85278248786926
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 554371
+554371
+4490010
+4490010
+[+]Scanning 4490010 addresses...
+[+]Over! Scanning duration:484.3966269493103 s
+[+]1516478 active addresses detected!
+[*]consume 4490010 hit 1516478 in 0:19:08 hit rate = 0.3377449047997666
+
+-------main_loop time: 779.397791147232

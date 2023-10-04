@@ -1,0 +1,1 @@
+echo ['!@#1270719077qwe'] | sudo /home/chengdaguo/anaconda3/envs/6Graph/bin/python /home/chengdaguo/baseline/6Graph/main_v2.py

@@ -1,0 +1,2 @@
+/home/chengdaguo/anaconda3/envs/entropy-ip/bin/python /home/chengdaguo/ipv6/Baseline/Entropy-ip/c1-gen.py -n 50000000 /home/chengdaguo/ipv6/Baseline/Entropy-ip/result_few/cpd
+/home/chengdaguo/anaconda3/envs/entropy-ip/bin/python /home/chengdaguo/ipv6/Baseline/Entropy-ip/c2-decode.py --colons Baseline/Entropy-ip/result_few/reduced_ipv6_1.txt Baseline/Entropy-ip/result_few/analysis

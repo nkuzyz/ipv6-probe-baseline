@@ -1,0 +1,2 @@
+python /home/chengdaguo/ipv6/Baseline/Entropy-ip/c1-gen.py -n 2330000 /home/chengdaguo/ipv6/Baseline/Entropy-ip/result_su/cpd
+python /home/chengdaguo/ipv6/Baseline/Entropy-ip/c2-decode.py --colons Baseline/Entropy-ip/result_su/reduced_ipv6.txt Baseline/Entropy-ip/result_su/analysis

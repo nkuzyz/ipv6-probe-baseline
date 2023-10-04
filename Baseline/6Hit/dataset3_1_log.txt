@@ -1,0 +1,39 @@
+--- Initialised 475 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 0.032794952392578125
+--- Start scanning ...
+-------main_loop begin ...
+[+]Scanning 465 addresses...
+[+]Over! Scanning duration:8.175755500793457 s
+[+]0 active addresses detected!
+[*]consume 1428 hit 0 in 0:00:08 hit rate = 0.0
+
+-------main_loop time: 8.204288244247437
+--- Initialised 475 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 0.029120683670043945
+--- Start scanning ...
+-------main_loop begin ...
+[+]Scanning 465 addresses...
+[+]Over! Scanning duration:8.195213794708252 s
+[+]0 active addresses detected!
+[*]consume 1428 hit 0 in 0:00:08 hit rate = 0.0
+
+[+]Scanning 465 addresses...
+[+]Over! Scanning duration:8.179524898529053 s
+[+]0 active addresses detected!
+[*]consume 2856 hit 0 in 0:00:16 hit rate = 0.0
+
+[+]Scanning 464 addresses...
+[+]Over! Scanning duration:8.20835542678833 s
+[+]0 active addresses detected!
+[*]consume 4284 hit 0 in 0:00:24 hit rate = 0.0
+
+[+]Scanning 465 addresses...
+[+]Over! Scanning duration:8.204023838043213 s
+[+]0 active addresses detected!
+[*]consume 5712 hit 0 in 0:00:33 hit rate = 0.0
+
+-------main_loop time: 32.887155055999756

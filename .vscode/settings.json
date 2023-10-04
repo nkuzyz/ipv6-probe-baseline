@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Baseline/utils",
+        "./Baseline/6Forest",
+        "./Baseline/6Forest"
+    ]
+}

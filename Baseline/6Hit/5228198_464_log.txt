@@ -1,0 +1,16 @@
+--- Initialised 5228197 seed addresses
+--- The root node is done
+--- Adding R nodes
+-------init_partition time: 354.5262792110443
+--- Start scanning ...
+--- 正常迭代 ...
+-------要遍历的region数: 581968
+581968
+5975886
+5975886
+[+]Scanning 5975886 addresses...
+[+]Over! Scanning duration:646.0491828918457 s
+[+]1691562 active addresses detected!
+[*]consume 5975886 hit 1691562 in 0:22:59 hit rate = 0.28306463677519955
+
+-------main_loop time: 1025.531248807907
