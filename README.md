@@ -2,7 +2,7 @@
 
 ipv6活跃探测
 
-张怡桢 大三 南开大学软件工程在读
+张怡桢 2013747 nku20级本科生
 
 # ipv6-probe-baseline
 Run Method

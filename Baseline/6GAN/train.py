@@ -304,7 +304,7 @@ def main():
     log.write(buffer + '\n')
     for i in range(generator_num):
         print('    Generator %s/%s' % (i + 1, generator_num))
-        for epoch in range(1):  #120 # 150
+        for epoch in range(50):  #120 # 150
             train_loss = pre_train_epoch(sess, generators[i], pre_train_data_loaders[i])
             if epoch % 5 == 0:
                 generate_samples(sess, generators[i], 1, eval_file, vocab_list, if_log=True, epoch=epoch)
@@ -319,7 +319,7 @@ def main():
     for filename in os.listdir(save_path):
         if 'generator' in filename:
             os.remove(save_path + filename)
-    for _ in range(1):   # 10
+    for _ in range(10):   # 10
         for i in range(generator_num):
             if CLASSIFICATION_METHOD == -1:
                 generate_samples(sess, generators[i], int(TOTAL_GENERATION / BATCH_SIZE), negative_file_list[i],
@@ -328,7 +328,7 @@ def main():
                 generate_samples(sess, generators[i], int(classifier.emb_data_num[i] / BATCH_SIZE), negative_file_list[i],
                                  vocab_list)
         dis_data_loader.load_train_data(positive_file_list, negative_file_list)
-        for _ in range(1):
+        for _ in range(3):
             dis_data_loader.reset_pointer()
             for it in range(dis_data_loader.num_batch):
                 x_batch, y_batch = dis_data_loader.next_batch()
@@ -347,7 +347,7 @@ def main():
     rewards_loss_list = []
     for total_batch in range(1, TOTAL_BATCH + 1):
         # Train the generator
-        for it in range(1):
+        for it in range(10):
             rewards_loss_list = []
             for i in range(generator_num):
 
@@ -390,7 +390,7 @@ def main():
 
         # Train the discriminator
         begin = True
-        for _ in range(1):
+        for _ in range(10):
             for i in range(generator_num):
                 if CLASSIFICATION_METHOD == -1:
                     generate_samples(sess, generators[i], int(TOTAL_GENERATION / BATCH_SIZE), negative_file_list[i],
@@ -418,7 +418,7 @@ def main():
             discriminator.save_model(sess, model_path)
 
         # pretrain
-        for _ in range(1):
+        for _ in range(10):
             for i in range(generator_num):
                 pre_train_epoch(sess, generators[i], pre_train_data_loaders[i])
 
